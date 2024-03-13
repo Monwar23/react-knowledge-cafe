@@ -1,0 +1,53 @@
+[
+    {
+    "id": "001",
+    "cover_image": "https://i.ibb.co/tLV1G1Y/homepage-seen-computer-screen.jpg",
+    "title": "Secrets of the Whispering Woods",
+    "author": "Isabella Moonlight",
+    "img": "https://i.ibb.co/xjG6rXL/download-1.jpg",
+    "posted_date": "2024-03-16",
+    "reading_time": 22,
+    "hashtag": ["fantasy", "magic", "adventure"]
+  },
+  {
+    "id": "002",
+    "cover_image": "https://i.ibb.co/GxBfdnW/homepage-seen-laptop-screen.jpg",
+    "title": "City of Neon Shadows",
+    "author": "Lucas Nightshade",
+    "img": "https://i.ibb.co/QPmxzKH/download.jpg",
+    "posted_date": "2024-03-17",
+    "reading_time": 35,
+    "hashtag": ["cyberpunk", "thriller", "mystery"]
+  },
+  {
+    "id": "003",
+    "cover_image": " https://i.ibb.co/68zf7kF/notepad-pen-paper-clipboard-with-paperclips-laptop-green-background.jpg",
+    "title": "Eternal Echoes",
+    "author": "Serena Starlight",
+    "img": "https://i.ibb.co/wrTpXtg/images-1.jpg",
+    "posted_date": "2024-03-18",
+    "reading_time": 28,
+    "hashtag": ["romance", "timeless", "heartbreak"]
+  },
+  {
+    "id": "004",
+    "cover_image": "https://i.ibb.co/FH7SmMq/top-view-keyboard-desk-with-notebook-copy-space.jpg",
+    "title": "Quantum Paradox",
+    "author": "Max Quantum",
+    "img": "https://i.ibb.co/fHYJH97/images-2.jpg",
+    "posted_date": "2024-03-19",
+    "reading_time": 45,
+    "hashtag": ["sciencefiction", "time travel", "paralleluniverse"]
+  },
+  {
+    "id": "005",
+    "cover_image": " https://i.ibb.co/DkyC1mF/top-view-notebooks-wooden-desk-with-bouquet-roses-paper-clips.jpg",
+    "title": "Silent Symphony",
+    "author": "Olivia Harmony",
+    "img": "https://i.ibb.co/sm2QfvH/images.jpg",
+    "posted_date": "2024-03-20",
+    "reading_time": 18,
+    "hashtag": ["drama", "music", "emotions"]
+  }
+]
+          
