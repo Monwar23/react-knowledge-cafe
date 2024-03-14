@@ -3,7 +3,7 @@ import './App.css'
 import Blogs from './components/Blogs/Blogs'
 import Header from './components/Header/Header'
 import Bookmarks from './components/Bookmarks/Bookmarks'
-import { createLogger } from 'vite'
+// import { createLogger } from 'vite'
 function App() {
   const [bookmarks, setBookmarks] = useState([]);
   const [readingTime,setReadingTime]=useState(0)
@@ -13,9 +13,12 @@ function App() {
     setBookmarks(newBookmarks);
   }
 
-  const handleMarkAsRead=time=>{
+  const handleMarkAsRead=(id,time)=>{
    const newReadingTime=readingTime+time;
    setReadingTime(newReadingTime)
+
+   const remainingBookmarks=bookmarks.filter(bookmark=>bookmark.id !==id)
+   setBookmarks(remainingBookmarks)
   }
 
   return (
